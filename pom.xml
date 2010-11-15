@@ -364,13 +364,13 @@
       <dependency>
         <groupId>org.apache.ws.commons.axiom</groupId>
         <artifactId>axiom-api</artifactId>
-        <version>1.2.10-SNAPSHOT</version>  
+        <version>1.2.10</version>  
       </dependency>
 
       <dependency>
         <groupId>org.apache.ws.commons.axiom</groupId>
         <artifactId>axiom-impl</artifactId>
-        <version>1.2.10-SNAPSHOT</version>  
+        <version>1.2.10</version>  
 
       <exclusions>
         <exclusion>
